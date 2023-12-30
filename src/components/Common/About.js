@@ -21,6 +21,45 @@ class About extends Component
                                     <br/><strong>To us its all about giving to our community!</strong></h3>
                         </div>
                         <ul className="timeline">
+                        <li>
+                                <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                                <div className="timeline-panel">
+                                    <div className="timeline-heading">
+                                        <h4>Travel and Tour Consulting</h4>
+                                    </div>
+                                    <div className="timeline-body"><p className="text-muted">Our catering industry is intended to be flavorful and inventive. African specialties are produced as part of our catering services. We make an effort to maintain taste quality.</p></div>
+                                </div>
+                            </li>
+                            <li className="timeline-inverted">
+                                <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                                <div className="timeline-panel">
+                                    <div className="timeline-heading">
+                                        <h4>Visa Processing</h4>
+                                    </div>
+                                    <div className="timeline-body"><p className="text-muted">In 2017 our Water production sector was developed. Our community now has access to clean water thanks to the development of our water production sector.</p></div>
+                                </div>
+                            </li>
+                           
+                            <li>
+                                <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                                <div className="timeline-panel">
+                                    <div className="timeline-heading">
+                                        <h4>General Contracting</h4>
+                                    </div>
+                                    <div className="timeline-body"><p className="text-muted">Our catering industry is intended to be flavorful and inventive. African specialties are produced as part of our catering services. We make an effort to maintain taste quality.</p></div>
+                                </div>
+                            </li>
+                            <li className="timeline-inverted">
+                                <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                                <div className="timeline-panel">
+                                    <div className="timeline-heading">
+                                        <h4>Custom on Demand Software Development</h4>
+                                        
+                                    </div>
+                                    <div className="timeline-body"><p className="text-muted">In 2017 our Water production sector was developed. Our community now has access to clean water thanks to the development of our water production sector.</p></div>
+                                </div>
+                            </li>
+                            
                             <li>
                                 <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
                                 <div className="timeline-panel">
